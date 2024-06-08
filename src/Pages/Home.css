@@ -1,0 +1,7 @@
+.background_image_file{
+    background-image: url(./img/image.png);
+    background-repeat: no-repeat;
+}
+.backtext{
+    z-index: auto;
+}
